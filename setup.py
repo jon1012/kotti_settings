@@ -39,6 +39,7 @@ setup(
     install_requires=[
         'Kotti>=0.9b2',
         'pyramid_deform<=0.2',
+        'mock>=1.0'
     ],
     message_extractors={
         'kotti_settings': [
